@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.spring.produtos.dtos.ProductRecordDto;
 import com.spring.produtos.model.ProductModel;
 import com.spring.produtos.repositories.ProductRepository;
-import com.spring.produtos.service.ProductService;
+import com.spring.produtos.services.ProductService;
 
 import jakarta.validation.Valid;
 
